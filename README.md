@@ -1,6 +1,6 @@
 # **Programming Language Detection from Images**
 
-**Introduction**
+**Getting Started**
 
 In this study, three different datasets of source code images were classified with Convolutional Neural Network (CNN) which is a deep learning algorithm and the results were comparatively examined.
 
