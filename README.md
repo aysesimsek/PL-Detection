@@ -1,13 +1,13 @@
 # **Programming Language Detection from Images**
 
-**Getting Started**
+## **Getting Started**
 
 In this study, three different datasets of source code images were classified with Convolutional Neural Network (CNN) which is a deep learning algorithm and the results were comparatively examined.
 
 
 CNNs use relatively little pre-processing compared to other image classification algorithms. This means that the network learns the filters that in traditional algorithms were hand-engineered. This independence from prior knowledge and human effort in feature design is a major advantage.
 
-**System Architecture**
+## **System Architecture**
 
 This project was developed with Python. Pytorch that is the open source machine learning library for python was used. PyTorch provides Tensor computation (like [NumPy](https://en.wikipedia.org/wiki/NumPy "NumPy")) with strong [GPU acceleration](https://en.wikipedia.org/wiki/General-purpose_computing_on_graphics_processing_units "General-purpose computing on graphics processing units"). Fast.ai library was used to simplify training neural networks. Pip is a package-management system used to install and manage software packages written in Python and pip was used for this project. CUDA Toolkit that provides a development environment for creating high performance GPU-accelerated applications was used. jupyter notebook was used as program development environment.
 
@@ -17,7 +17,7 @@ In short, the system requirements are as follows;
 |<p>- Python – 3.6 </p><p>- Pytorch – 1.1.0</p><p>- Fast.ai – 1.0.52</p>|<p>- Pip – 19.1</p><p>- CUDA – 9.0 </p><p>- Jupyter Notebook</p>|
 | :- | :- |
 
-**Method**
+## **Method**
 
 In this study, two approaches have been tried in this section, these approaches are explained step by step. As shown in the Table 1 below. Existing generic image classification model ResNet-34 is used. Data was loaded, model created and trained with Fastai library.
 
@@ -104,7 +104,7 @@ Table 1. Method stages
 
  - Train all layers using lr: According to the obtained lr value, all the layers are re-trained in 8 epoch.
 
-**Dataset Description**
+## **Dataset Description**
 
 3 different data sets were used in this project. The batch size is set to the same and 64 for all data sets. Default values are used to train and validate datasets (train = 0.8, validation = 0.2). 
 
@@ -138,7 +138,7 @@ This data set contains 6 different programming language folders.
 
 This data set was obtained from the same source as the data set 2. that is, this data set consists of images with the same characteristics. Unlike the Dataset-2, there are 10,000 images for each programming language. So there is a total 10.000\*6=60.000 data.
 
-# **Experimental Results and Conclusion**
+## **Experimental Results and Conclusion**
 
 1. Hyperparameters of 1st Approach: 
 
