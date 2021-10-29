@@ -1,5 +1,9 @@
 # **Programming Language Detection from Images**
 
+This study has been published in 2020. Please cite this paper in your publications if it helps your research:
+   
+   - Comparison of Image‑Based and Text‑Based Source Code Classifcation Using Deep Learning [[**paper**]](https://github.com/aysesimsek/PL-Detection/blob/main/Comparison%20of%20Image‑Based%20and%20Text‑Based%20Source%20Code%20Classifcation%20Using%20Deep%20Learning.pdf) (**Springer 2020**)
+
 ## **Getting Started**
 
 In this study, three different datasets of source code images were classified with Convolutional Neural Network (CNN) which is a deep learning algorithm and the results were comparatively examined.
