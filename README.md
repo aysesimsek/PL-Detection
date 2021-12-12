@@ -2,7 +2,7 @@
 
 This study has been published in 2020. Please cite this paper in your publications if it helps your research:
    
-   - Comparison of Image‑Based and Text‑Based Source Code Classifcation Using Deep Learning [[**paper**]](https://github.com/aysesimsek/PL-Detection/blob/main/Comparison%20of%20Image‑Based%20and%20Text‑Based%20Source%20Code%20Classifcation%20Using%20Deep%20Learning.pdf) (**Springer 2020**)
+   - Comparison of Image‑Based and Text‑Based Source Code Classifcation Using Deep Learning [[**paper**]](https://link.springer.com/article/10.1007/s42979-020-00281-1) (**Springer 2020**)
 
 
     Kiyak, E.O., Cengiz, A.B., Birant, K.U. et al. Comparison of Image-Based and Text-Based Source Code Classification Using Deep Learning. SN COMPUT. SCI. 1, 266 (2020). https://doi.org/10.1007/s42979-020-00281-1
